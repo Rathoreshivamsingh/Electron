@@ -1,0 +1,9 @@
+{
+    "Name": "MyOrthanc",
+    "StorageDirectory": "storage",
+    "DicomPort": 4243,
+    "HttpPort": 8080,
+    "DicomAet": "ORTHANC",
+    "Plugins": []
+  }
+  
